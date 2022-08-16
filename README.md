@@ -5,5 +5,5 @@
 ## Defining the architecture:
 A high level architecture of the Byju clone
 
-![Byju clone architechture](/pictures/architechture.png)
+![Byju clone architechture](/pictures/architecture.png)
 
